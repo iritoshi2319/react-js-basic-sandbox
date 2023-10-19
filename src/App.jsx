@@ -9,7 +9,7 @@ const App = () => {
     setNum(num + 1);
   };
 
-  // faceShowFlagのbool値を入れ替える
+  // faceShowFlagのbool値を入れ替える.
   const onClickSwitchShowFlag = () => {
     setFaceShowFlag(!faceShowFlag);
   };
